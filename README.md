@@ -15,21 +15,24 @@ A custom mainboard designed to replace the old electronics in my 3D printer. Bui
 ## Gallery
 
 ### 3D PCB Render
-![PCB 3D](Images/pcb_render_raytracing.png)
+![PCB 3D](Images/Super3DMakerSTM.png)
 
-![PCB 3D](Images/pcb_render_bottom_stark.png)
+![PCB 3D](Images/Super3DMakerSTM2.png)
 
-![PCB 3D](Images/pcb_render_angle.png)
+![PCB 3D](Images/Super3DMakerSTM3.png)
 
 ### PCB Routing
-![PCB 2D](Images/pcb_routing_top.png)
+![PCB 2D](Images/pcb_f.png)
 
-![PCB 2D](Images/pcb_routing_inner.png)
+![PCB 2D](Images/pcb_b.png)
+
+![PCB 2D](Images/pcb_in1.png)
+
+![PCB 2D](Images/pcb_in2.png)
 
 ### Schematic
-![Schematic](Images/schematic_main.png)
+![Schematic](Images/schematics.png)
 
-![Schematic](Images/schematic_power.png)
 
 ---
 
