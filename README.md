@@ -1,6 +1,6 @@
 # Super3DMaker Controller Board
 
-A custom mainboard designed to replace the old electronics in my 3D printer. Built to handle Klipper high-speed kinematics and communicate directly with a Raspberry Pi Zero 2W. Designed entirely from scratch in KiCad 8.
+A custom mainboard designed to replace the old electronics in my 3D printer. Built to handle klipper high speed kinematics and communicate directly with a Raspberry Pi Zero 2W. Designed entirely from scratch in KiCad 10.
 
 ## Project Features
 
@@ -11,6 +11,8 @@ A custom mainboard designed to replace the old electronics in my 3D printer. Bui
 * **Connectivity:** USB-B for main communication, native Raspberry Pi UART interface
 * **Displays:** Standard 10-pin IDC EXP1 and EXP2 headers for legacy 12864 or modern SPI BTT Mini12864 displays
 * **Hardware Interlock:** Laser module power logically tied to the high-current heated bed circuit to prevent simultaneous power draw
+
+* And more other...
 
 ## Gallery
 
