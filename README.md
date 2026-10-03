@@ -21,7 +21,7 @@ However, the build process revealed several mechanical limitations of the origin
 * **Heated Bed Inefficiency:** The massive original heated bed takes around an hour to reach just 70°C. 
 * **Toolhead Weight:** The older extruder system is extremely heavy, limiting printing speeds and precision. 
 
-To fully utilize the new controller board's capabilities, I have designed a completely new mount for a modern toolhead. However, installing it requires practically disassembling the entire printer, which I plan to do as a future upgrade. For now, the goal of successfully designing, building, and running a custom controller board has been achieved.
+To fully utilize the new controller board's capabilities, I have designed a completely new mount for a modern toolhead. This can be actually directly mounted on the chassis. However, this will only add weight if I don't disassemble the moving carriage from the tubes, which requires practically disassembling the entire printer, which I plan to do as a future upgrade. This would also require creating another model which would replace the previous aluminium carriage on the tubes. For now, the goal of successfully designing, building, and running a custom controller board has been achieved.
 
 ## Project Features
 
