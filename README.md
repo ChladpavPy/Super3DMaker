@@ -38,7 +38,7 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 ## Gallery
 
 ### Build Preview
-![Build Preview](Images/build1.png)
+![Build Preview](Images/3dprinter.png)
 
 ![Build Preview](Images/build2.png)
 
