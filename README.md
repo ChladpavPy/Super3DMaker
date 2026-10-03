@@ -20,6 +20,24 @@ A custom mainboard designed to replace the old electronics in my 3D printer. Bui
 
 ## Gallery
 
+### Build Preview
+![Build Preview](Images/build1.png)
+
+![Build Preview](Images/build2.png)
+
+![Build Preview](Images/build3.png)
+
+![Build Preview](Images/build8.png)
+
+### Printing
+![Build Preview](Images/build1.png)
+
+![Build Preview](Images/build2.png)
+
+![Build Preview](Images/build3.png)
+
+![Build Preview](Images/build8.png)
+
 ### 3D PCB Render
 ![PCB 3D](Images/Super3DMakerSTM.png)
 
