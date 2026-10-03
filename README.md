@@ -42,7 +42,7 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 
 ![Build Preview](Images/pcb_build.png)
 
-![Build Preview](Images/back_pcb_build.png)
+![Build Preview](Images/back_pcb_build.jpg)
 
 ![Build Preview](Images/front_pcb_build.jpg)
 
