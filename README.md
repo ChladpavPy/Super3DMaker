@@ -6,6 +6,23 @@ The first stage was actually reverse-engineering the old board and studying as m
 
 A custom mainboard designed to replace the old electronics in my 3D printer. Built to handle klipper high speed kinematics and communicate directly with a Raspberry Pi Zero 2W. Designed entirely from scratch in KiCad 10.
 
+## The Build and Integration Phase
+
+After receiving the manufactured PCB from JLCPCB, the project transitioned into the physical build phase. This involved soldering all components and integrating the new board into the chassis. 
+
+The most intensive part was the software setup and calibration. I configured Klipper and the Raspberry Pi, and spent a significant amount of time getting the `printer.cfg` right. This meant dialing in the correct motor parameters, gear ratios, and microsteps through trial and error and reverse engineering.
+
+### Results and Current Limitations
+
+The custom STM32F407VET6 board works perfectly and successfully replaces the old ATmega setup. Klipper brings many modern features compared to the old Marlin firmware. Thanks to the new TMC2209 drivers, the printer is now significantly quieter during operation.
+
+However, the build process revealed several mechanical limitations of the original Profi3DMaker chassis that the new electronics alone cannot fix:
+* **Z-Axis Noise:** Despite the silent drivers, the Z-axis still makes mechanical grinding noises, indicating a physical issue with the leadscrews or bearings.
+* **Heated Bed Inefficiency:** The massive original heated bed takes around an hour to reach just 70°C. 
+* **Toolhead Weight:** The older extruder system is extremely heavy, limiting printing speeds and precision. 
+
+To fully utilize the new controller board's capabilities, I have designed a completely new mount for a modern toolhead. However, installing it requires practically disassembling the entire printer, which I plan to do as a future upgrade. For now, the goal of successfully designing, building, and running a custom controller board has been achieved.
+
 ## Project Features
 
 * **Microcontroller:** STM32F407VET6 (100-pin, 32-bit ARM Cortex-M4)
