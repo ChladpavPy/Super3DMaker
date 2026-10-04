@@ -46,6 +46,8 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 
 ![Build Preview](Images/front_pcb_build.jpg)
 
+![Build Preview](Images/crtouchimage.jpg)
+
 ### Printing
 ![Build Preview](Images/print1.jpg)
 
