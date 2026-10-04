@@ -23,6 +23,10 @@ However, the build process revealed several mechanical limitations of the origin
 
 To fully utilize the new controller board's capabilities, I have designed a completely new mount for a modern toolhead. This can be actually directly mounted on the chassis. However, this will only add weight if I don't disassemble the moving carriage from the tubes, which requires practically disassembling the entire printer, which I plan to do as a future upgrade. This would also require creating another model which would replace the previous aluminium carriage on the tubes. For now, the goal of successfully designing, building, and running a custom controller board has been achieved.
 
+## Firmware
+
+Since this board is built around a custom STM32F407VET6 microcontroller, it runs on the open-source [Klipper](https://github.com/Klipper3d/klipper) firmware. Instead of writing custom kinematic calculations from scratch, the firmware setup uses a printer configuration file. You can find the complete pin-mapping and configuration file (`printer.cfg`), along with the original dumped `.srec` firmware files used to reverse-engineer the correct gear ratios and microsteps, ready in the `Firmware` folder.
+
 ## Project Features
 
 * **Microcontroller:** STM32F407VET6 (100-pin, 32-bit ARM Cortex-M4)
