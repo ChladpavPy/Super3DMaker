@@ -115,3 +115,4 @@ If you want to replicate this custom controller board for your own Profi3DMaker 
    * Flash the compiled `klipper.bin` to the STM32 using STM32CubeProgrammer.
 3. **Raspberry Pi Integration:** Connect the Raspberry Pi Zero 2W to the board using the dedicated UART pins for serial communication.
 4. **Configuration:** Upload the provided `printer.cfg` (found in the `/Firmware` folder) to your Klipper interface (Mainsail/Fluidd) and verify motor directions and sensor readings.
+That is all, thank you for reading!
