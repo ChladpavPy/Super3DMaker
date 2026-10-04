@@ -103,3 +103,15 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 | **Original Aluminum Case** | 1 | The heavy original printer chassis | I had to reverse engineer the mounting holes and connector distances, because I could not get the original CAD files. It was a nightmare but it fits within like 4.7mm of the board edge now. |
 | **M3 Screws** | 4 | Standard mounting hardware | Securing the PCB to the chassis standoffs. |
 - For the case of the 3d printer - Profi3DMaker case is used
+
+## How to Build and Flash Firmware
+
+If you want to replicate this custom controller board for your own Profi3DMaker or similar 3D printer, follow these steps:
+
+1. **PCB Fabrication & Assembly:** Use the provided Gerber files (found in the repository) to manufacture the board. Most SMD components are assembled by JLCPCB, but you will need to manually solder the THT USB-B connector, terminal blocks, and JST headers.
+2. **STM32 Bootloader & Klipper Firmware:**
+   * Connect the board to your PC via USB-B while holding the BOOT/RESET buttons to enter DFU mode.
+   * Compile Klipper for the `STM32F407VET6` chip using `make menuconfig` on your Raspberry Pi Zero 2W.
+   * Flash the compiled `klipper.bin` to the STM32 using STM32CubeProgrammer.
+3. **Raspberry Pi Integration:** Connect the Raspberry Pi Zero 2W to the board using the dedicated UART pins for serial communication.
+4. **Configuration:** Upload the provided `printer.cfg` (found in the `/Firmware` folder) to your Klipper interface (Mainsail/Fluidd) and verify motor directions and sensor readings.
