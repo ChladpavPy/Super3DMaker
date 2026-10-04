@@ -55,6 +55,12 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 
 ![Build Preview](Images/print4.jpg)
 
+![Build Preview](Images/print5.jpg)
+
+![Build Preview](Images/print6.jpg)
+
+![Build Preview](Images/print7.jpg)
+
 ### 3D PCB Render
 ![PCB 3D](Images/Super3DMakerSTM.png)
 
