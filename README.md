@@ -47,13 +47,13 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 ![Build Preview](Images/front_pcb_build.jpg)
 
 ### Printing
-![Build Preview](Images/build1.png)
+![Build Preview](Images/print1.jpg)
 
-![Build Preview](Images/build2.png)
+![Build Preview](Images/print2.jpg)
 
-![Build Preview](Images/build3.png)
+![Build Preview](Images/print3.jpg)
 
-![Build Preview](Images/build8.png)
+![Build Preview](Images/print4.jpg)
 
 ### 3D PCB Render
 ![PCB 3D](Images/Super3DMakerSTM.png)
