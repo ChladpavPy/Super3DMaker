@@ -25,8 +25,7 @@ To fully utilize the new controller board's capabilities, I have designed a comp
 
 ## Firmware
 
-Since this board is built around a custom STM32F407VET6 microcontroller, it runs on the open-source [Klipper](https://github.com/Klipper3d/klipper) firmware. Instead of writing custom kinematic calculations from scratch, the firmware setup uses a printer configuration file. You can find the complete pin-mapping and configuration file (`printer.cfg`), along with the original dumped `.srec` firmware files used to reverse-engineer the correct gear ratios and microsteps, ready in the `Firmware` folder.
-
+Since this board is built around a custom STM32F407VET6 microcontroller, it runs on the open-source [Klipper](https://github.com/Klipper3d/klipper) firmware. Instead of writing custom kinematic calculations from scratch, the firmware setup uses a printer configuration file. You can find the complete pin-mapping and configuration file (`printer.cfg`), along with the original dumped `.srec` firmware files used to reverse-engineer the correct gear ratios and microsteps, ready in the `Firmware` folder. You can also access all the other original files for this 3D printer by registering on the 3D Factories website.
 ## Project Features
 
 * **Microcontroller:** STM32F407VET6 (100-pin, 32-bit ARM Cortex-M4)
