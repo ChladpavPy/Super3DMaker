@@ -41,11 +41,11 @@ Since this board is built around a custom STM32F407VET6 microcontroller, it runs
 ### Video Demos
 
 <p>
-  <video src="https://raw.githubusercontent.com/ChladpavPy/Super3DMaker/main/Videos/Video%20Project%11.mp4" controls="controls" width="100%"></video>
+  <video src="https://raw.githubusercontent.com/ChladpavPy/Super3DMaker/main/Videos/Video%20Project%2011.mp4" controls="controls" width="100%"></video>
 </p>
 
 <p>
-  <video src="https://raw.githubusercontent.com/ChladpavPy/Super3DMaker/main/Videos/Video%20Project%13.mp4" controls="controls" width="100%"></video>
+  <video src="https://raw.githubusercontent.com/ChladpavPy/Super3DMaker/main/Videos/Video%20Project%2013.mp4" controls="controls" width="100%"></video>
 </p>
 
 
