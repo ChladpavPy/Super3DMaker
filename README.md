@@ -44,7 +44,17 @@ https://github.com/user-attachments/assets/c8a4d6e0-8937-4ded-b093-ac17ca0ef771
 
 https://github.com/user-attachments/assets/72c90019-3e0b-4c00-92d0-47ec632bfb1b
 
+https://github.com/user-attachments/assets/8aad29d0-d306-4471-a87c-c93d6b09ec2d
+
+LIS2DW accelometer calibration
+
 https://github.com/user-attachments/assets/c06aa969-909b-4192-8ba1-088b3594a9f0
+
+CR Touch Bed Mesh
+
+
+
+
 
 
 
