@@ -42,6 +42,8 @@ Since this board is built around a custom STM32F407VET6 microcontroller, it runs
 
 https://github.com/user-attachments/assets/c8a4d6e0-8937-4ded-b093-ac17ca0ef771
 
+https://github.com/user-attachments/assets/72c90019-3e0b-4c00-92d0-47ec632bfb1b
+
 
 
 ## Gallery
