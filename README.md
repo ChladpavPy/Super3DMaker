@@ -52,12 +52,6 @@ https://github.com/user-attachments/assets/c06aa969-909b-4192-8ba1-088b3594a9f0
 
 CR Touch Bed Mesh
 
-
-
-
-
-
-
 ## Gallery
 
 ### Build Preview
