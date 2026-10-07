@@ -39,8 +39,8 @@ Since this board is built around a custom STM32F407VET6 microcontroller, it runs
 * And more other...
 
 ### Video Demos
-* Watch Demo 1: [Video Project 11](https://github.com/ChladpavPy/Super3DMaker/blob/main/Videos/Video%20Project%2011.mp4)
-* Watch Demo 2: [Video Project 13](https://github.com/ChlaidpavPy/Super3DMaker/blob/main/Videos/Video%20Project%2013.mp4)
+
+https://github.com/user-attachments/assets/c8a4d6e0-8937-4ded-b093-ac17ca0ef771
 
 
 
