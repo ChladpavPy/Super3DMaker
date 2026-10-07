@@ -38,6 +38,12 @@ Since this board is built around a custom STM32F407VET6 microcontroller, it runs
 
 * And more other...
 
+https://github.com/user-attachments/assets/dea65ac9-e9e7-4503-ad93-a8fd29c423c9
+
+https://github.com/user-attachments/assets/869ff540-1e5a-4968-9cce-73321be57ae6
+
+
+
 ## Gallery
 
 ### Build Preview
@@ -66,8 +72,6 @@ Since this board is built around a custom STM32F407VET6 microcontroller, it runs
 ![Build Preview](Images/print6.jpg)
 
 ![Build Preview](Images/print7.jpg)
-
-https://github.com/user-attachments/assets/dea65ac9-e9e7-4503-ad93-a8fd29c423c9
 
 ### 3D PCB Render
 ![PCB 3D](Images/Super3DMakerSTM.png)
